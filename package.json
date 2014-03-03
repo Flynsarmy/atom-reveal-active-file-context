@@ -1,0 +1,12 @@
+{
+  "name": "reveal-active-file-context",
+  "version": "0.0.0",
+  "description": "Adds a shortcut to Tree View - Reveal Active File in the context menu",
+  "repository": "https://github.com/Flynsarmy/atom-reveal-active-file-context",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+  }
+}
